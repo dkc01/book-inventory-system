@@ -1,5 +1,3 @@
-# Readme for Binary Search Tree Inventory System
-
 ## Overview
 
 This project implements a Binary Search Tree (BST) data structure for managing an online bookstore inventory system. It uses templates to support a wide range of data types and includes additional features for searching, adding, deleting, and updating books in the inventory.
